@@ -167,6 +167,9 @@ KOČIČKA, Pavel a Filip BLAŽEK. Praktická typografie. Praha: Computer Press,
 MEŠKO, Dušan, Dušan KATUŠČÁK a Ján FINDRA. Akademická příručka. České, upr. vyd. Martin: Osveta, 2006. ISBN 80-8063-219-7.
 Nová citační norma ČSN ISO 690:2011 – Bibliografické citace. [online]. Dostupné z: https://www.iso690.zcu.cz
 ZBÍRAL, David. Jak napsat (a nepsat) odbornou práci: Zásady, návody, časté chyby. In: David Zbíral [online]. 2018 [cit. 2022-04-25]. Dostupné z: http://www.david-zbiral.cz/odborne-prace.htm
+Pomoc v Utvoření semínarni prací.
+PERPLEXITY, 2023-2024. Perplexity AI. Online. Dostupné z: https://www.perplexity.ai/. [cit. 2024-12-12] - Použival pro instrukce jak spravně citovat, a jak udělat Harvardsky styl v Citace PRO. To je pro mně možnost hledaní informace, ne používal to co perplexity napsal, a studoval vše.
+
 
 
 Přílohy
