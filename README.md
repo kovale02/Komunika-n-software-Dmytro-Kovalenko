@@ -67,13 +67,20 @@ OSN	Organizace spojených národů
 VŠPJ	Vysoká škola polytechnická Jihlava
 
 Úvod
-(obsahuje cíl práce, motivace k výběru tématu, aktuálnost apod.)
-Seminární práce je psaná písmem Calibri (Základní text) velikost 11 b., řádkování je 1,15 a mezera za odstavci je 6 b. Pro zvýrazňování v textu je nejvhodnější kurzíva, omezeně lze použít tučné písmo. Nikdy se nepoužívá podtrhávání.
-U seminární práce se předpokládá, že ji studenti odevzdávají elektronicky (není tištěná a vázaná), proto je velikost okrajů nastavena na 2,5 cm nahoře, dole, vpravo a vlevo. 
-Tato šablona slouží jako šablona pro psaní seminární práce na VŠPJ. Nejedná se o návod, jak práci zpracovávat. V dokumentu Jak psát práce na VŠPJ: Typografická pravidla pro studenty VŠPJ (Borůvková a kol., 2021) lze najít přehled nejdůležitějších pravidel pro formátování písemné práce na VŠPJ včetně typografických pravidel, ve kterých se nejčastěji chybuje, a ukázek citace použité literatury.
-Názvy kapitol si každý autor upraví podle zpracovávaného tématu, požadavků vyučujícího a zadání seminární práce.
-Vlastní text úvodu. Vlastní text úvodu. Vlastní text úvodu. Vlastní text úvodu. Vlastní text úvodu. Vlastní text úvodu. Vlastní text úvodu. Vlastní text úvodu. Vlastní text úvodu. Vlastní text úvodu. Vlastní text úvodu.
 
+Hodne času, Lide použavili možnosti komunikacii standartni chodili domů, hledali možnost mluvít s zahraniči, bez používano přistojev, s časem komunikačni technologii a internet podařili možnosti mluvit za 10 kilometriv, myslit. dneska taki hodně možnostey, ale s tim že každy den je progress, technologii, hodně cěho udělalo nový stýl, do hromady. Novi komunikačni software. Cíl tento prací v tom že musime vysvetlit tematu komuníkačnich softwaru. Vysvetlit typy komunikačneho softwaru. Jak jeho používat. V svoje prací pro komunikační a informační technologie Milan Klement říká:”Informační a komunikační technologie rozděleno do tří části:Základy práce s počítačem, Vyhledávání informací a komunikace a Zpracování a využiti informaci”
+KLEMENT, Milan, 2/2020. PREFERENCE TÉMAT RVP PRO OBLAST INFORMAČNÍ A KOMUNIKAČNÍ TECHNOLOGIE Z POHLEDU UČITELŮ INFORMATICKÝCH PŘEDMĚTŮ. Online. Http://www.media4u.cz. Dostupné z: https://www.researchgate.net/profile/Milan-Klement/publication/342555132_FRAMEWORK_EDUCATIONAL_PROGRAM_TOPIC_PREFERENCES_WITH_RESPECT_TO_TEACHING_ICT_FROM_THE_PERSPECTIVE_OF_THE_COMPUTER_SCIENCE_SUBJECTS'_TEACHERS/links/5efb2d5b299bf18816f3830d/FRAMEWORK-EDUCATIONAL-PROGRAM-TOPIC-PREFERENCES-WITH-RESPECT-TO-TEACHING-ICT-FROM-THE-PERSPECTIVE-OF-THE-COMPUTER-SCIENCE-SUBJECTS-TEACHERS.pdf. [cit. 2024-12-12].
+Co to je daje vědet? že každý den. Hodne kdo používa komunikační softwar, a až rozdělano, na tři typi. Hodně kdo použiva počitač s cilu komunikacii 
+Cíl tento semínarno 
+Vysvetlit temtatu seminarni prací
+V čem rozdil mezí komukačními softwarema 
+A jaki komunikačni softawery.
+
+Komunikačni softwar Whatssapp. 
+Na oficialny webowy stranka Korporace Whatssap říka pro svou softwar:”Pomocí applikace WhatsApp můžete začit soukromě chatovat a volat na všech svých zařizenich” WHATSAPP.COM, 2024. Nápověda. Online. 2024. Dostupné z: https://www.whatsapp.com/download/?locale=cs_CZ.. [cit. 2024-12-13].  
+
+
+**
 
 1 Název první kapitoly
 V seminární práci je vhodné používat nejvýše tři úrovně nadpisů. Pro kapitoly (první úroveň nadpisů) použijte styl Nadpis 1. 
