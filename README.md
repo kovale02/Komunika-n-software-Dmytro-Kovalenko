@@ -12,7 +12,7 @@ Studijní program
 
 
 Název práce
-Seminární práce
+Komunikačni software
 
 
 
@@ -20,9 +20,9 @@ Seminární práce
 
 
 
-Autor práce: 	Jan Nový
-Předmět:	Akademické psaní
-Vyučující: 	doc. Ing. Jiří Starý, Ph.D.
+Autor práce: 	Dmytro Kovalenko
+Předmět:	Uživatelský software
+Vyučující: 	Mgr. Hana Vojáčková, Ph.D.
 
 
 Jihlava 11. 12. 2024
@@ -85,6 +85,9 @@ Cíl tento semínarno
 Vysvetlit temtatu seminarni prací
 V čem rozdil mezí komukačními softwarema 
 A jaki komunikačni softawery.
+| V čem smysl| Jaki komunikačni software| V čem rozdyl |
+|----------|----------|----------|
+| Whatssapp    | Cell 2   | Cell 3   |
 
 Komunikačni softwar Whatssapp. 
 Na oficialny webowy stranka Korporace Whatssap říka pro svou softwar:”Pomocí applikace WhatsApp můžete začit soukromě chatovat a volat na všech svých zařizenich” WHATSAPP.COM, 2024. Nápověda. Online. 2024. Dostupné z: https://www.whatsapp.com/download/?locale=cs_CZ.. [cit. 2024-12-13].  Co to znamena? vlastne, tento komunikačni softwar whatssap. Má možnosti, používaní. Hodne čeho. Vlastne. Mluvit, psat. Volat. Vy jste mate kamarada s zahraniči. Ale volat přes opertora. Draha vec. Tak že to je velmi dobry, a krome toho, dobra možnost. Co esše možna uvídet. Na oficialni dokumentace Korporace WhatssApp říka že: “Hlasové hovory v aplikaci WhatsApp pro počítač vám umožňují zdarma telefonovat s vašimi kontakty, i když se nacházejí v jiné zemi.” WHATSAPP. Hlasové hovory.2024. Online. Dostupné z: https://faq.whatsapp.com/1153602608602452/?helpref=hc_fnav&cms_platform=web. [cit. 2024-12-14]. Když vy jste připojete přes Whatsapp. A budete použivat. Pro přiklad vy jste zavolate kamaradu, Dobra vec pro komunikaci, co vy jste múžete ted’ zavolat. Stačí připojit vybrat komu vy jste budete volat. Proč ta temata dneska ma smysl. Sprava v tomu, že s každym dnem hodne kdo použiva komunikačni softawery. mluve pres nich a dostava pochopeni, že to je dobra vec. A s pomocí neho možna vymeslit a uvidet honde čeho noveho, jak napriklad, kde vas kamarad nebo kamaradka, co dela znami, poslat foto to je nadherna vec, dneska take protoze mozna uvidet jak ono je.
